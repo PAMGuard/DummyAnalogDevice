@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # Dummy Analog Device Plugin
 
